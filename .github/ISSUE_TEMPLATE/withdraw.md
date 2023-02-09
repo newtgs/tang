@@ -1,7 +1,7 @@
 ---
 name: Withdraw
 about: Withdraw money here.
-title: ''
+title: Withdraw
 labels: ''
 assignees: ''
 
