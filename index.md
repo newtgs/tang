@@ -2,6 +2,6 @@
 
 |        Name        |    Balance   |
 |:------------------:|:------------:|
-|        Korn        |     ┳ 100    |
-|       Phuwat       |     ┳ 100    |
-|       Athiwat      |     ┳ 100    |
+|       NotKorn      |     ┳ 100    |
+
+[Go to Tang Bank Dashboard](https://github.com/newtgs/tang/issues/new/choose)
